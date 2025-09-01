@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Shridhar**  
-### 🚀 JavaScript Enthusiast & Independent Developer
+### 🚀 Senior-year AI & ML Undergraduate | Java & CS Enthusiast
 
 </div>
 
@@ -10,46 +10,25 @@
 
 ## About Me
 
-I'm Shridhar, an independent developer passionate about building modern web applications and experimenting with the JavaScript ecosystem. My journey blends curiosity, hands-on learning, and a commitment to clean code. Whether it's prototyping with the MEVN stack or exploring new frontend possibilities, I strive to turn ideas into impactful digital experiences.
+I'm Shridhar, a **senior-year AI & ML undergraduate**, proficient in **Java, MySQL, C, Linux, and Power BI**, with a solid understanding of **computer networks, OOP, and core computer science concepts**.  
+I focus on applying my technical skills to real-world solutions and I’m always open to opportunities, collaborations, and innovative projects. 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
 <span>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </span>
-
----
-
-## 🌟 Featured Projects
-
-### 🟢 Web-App
-**A modern web application framework**
-- **Tech:** JavaScript, Node.js, Express  
-- **Focus:** Clean architecture and scalable design for rapid prototyping.
-- **Impact:** Showcases modular JavaScript development and RESTful principles.
-
----
-
-### 🟢 MEVN
-**Full-stack application foundation with MEVN stack**
-- **Tech:** MongoDB, Express, Vue.js, Node.js  
-- **Focus:** End-to-end integration for dynamic web apps.
-- **Impact:** Highlights experience with full-stack JavaScript and modern web frameworks.
-
----
-
-### 🟢 Mean-Stack-
-**Experimenting with MEAN-based architectures**
-- **Tech:** JavaScript, Node.js, Express, MongoDB  
-- **Focus:** Exploring robust backend solutions and data-driven apps.
 
 ---
 
@@ -62,12 +41,14 @@ I'm Shridhar, an independent developer passionate about building modern web appl
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always eager to learn and collaborate on innovative projects. If you’re interested in working together or just want to chat about web development, reach out by opening an issue or discussion on any repo!
+## 🐍 Contribution Snake
 
 <div align="center">
+  <img src="https://github.com/sxh8fx/sxh8fx/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
 
 > 🚀 *Open for collaboration, feedback, and opportunities—let’s build something amazing together!*
-
-</div>
