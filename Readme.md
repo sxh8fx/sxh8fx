@@ -1,7 +1,7 @@
 # Shridhar R  
 
 <p align="center">
-  <img src="https://media.tenor.com/lfKJxTnkaZ8AAAAC/lol-haha-wow-mr-robot-laugh.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9oaDJhdjgycGRvbHZsc25jbzZuaGpuZHZtZDNhanNuYW53NjBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtodgtXG3WSYKGs/giphy.gif" width="300"/>
 </p>
 
 ---
