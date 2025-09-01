@@ -1,54 +1,46 @@
-<!-- HERO SECTION -->
-<div align="center">
+# Shridhar R  
 
-# 👋 Hi, I'm **Shridhar**  
-### 🚀 Senior-year AI & ML Undergraduate | Java & CS Enthusiast
-
-</div>
+## Java Developer & CS Enthusiast  
 
 ---
 
-## About Me
-
-I'm Shridhar, a **senior-year AI & ML undergraduate**, proficient in **Java, MySQL, C, Linux, and Power BI**, with a solid understanding of **computer networks, OOP, and core computer science concepts**.  
-I focus on applying my technical skills to real-world solutions and I’m always open to opportunities, collaborations, and innovative projects. 🚀
-
----
-
-## 🛠️ Tech Stack
-
-<span>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</span>
+## 👨‍💻 About Me  
+- Passionate about software development & problem solving  
+- Exploring data, algorithms, and system design  
+- Love building projects that combine creativity and logic  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Tech Stack  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxh8fx&show_icons=true&theme=radical" alt="Shridhar's GitHub stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxh8fx&layout=compact&theme=radical" alt="Shridhar's Top Languages" width="47%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/sxh8fx/sxh8fx/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,c,html,css,linux,figma,python,powerbi,github" height="55" />
+</p>
 
 ---
 
-## 🤝 Let's Connect!
+## 📊 GitHub Stats  
 
-> 🚀 *Open for collaboration, feedback, and opportunities—let’s build something amazing together!*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhar-r&layout=compact&theme=radical" height="150"/>
+</p>  
+
+---
+
+## 🏆 Competitive Programming  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sh8fx?theme=dark&font=Karma&ext=contest" height="220" />
+</p>
+
+Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/sh8fx/)  
+
+---
+
+## 🤝 Let’s Connect  
+
+<p align="center">
+  <a href="mailto:shridhar.al22@bitsathy.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/shridhar-r-9aa9a9267/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://github.com/shridhar-r"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+</p>
