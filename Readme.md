@@ -1,7 +1,5 @@
 # Shridhar R  
 
-## Java Developer  
-
 <p align="center">
   <img src="https://media.tenor.com/lfKJxTnkaZ8AAAAC/lol-haha-wow-mr-robot-laugh.gif" width="300"/>
 </p>
@@ -23,8 +21,7 @@ Senior-year AI & ML undergraduate, proficient in Java, MySQL, C, Linux, and Powe
   <img src="https://skillicons.dev/icons?i=linux" height="65" />
   <img src="https://skillicons.dev/icons?i=figma" height="65" />
   <img src="https://skillicons.dev/icons?i=python" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="65"/>
-  <img src="https://skillicons.dev/icons?i=github" height="65" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="65"/>
 </p>
 
 ---
