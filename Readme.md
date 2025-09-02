@@ -26,6 +26,15 @@ Senior-year AI & ML undergraduate, proficient in Java, MySQL, C, Linux, and Powe
 
 ---
 
+## 🎵 Now Playing on Spotify  
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fonufxiwd6yjpc6mizkgofcqwa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fonufxiwd6yjpc6mizkgofcqwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+  </a>
+</p>
+
+---
 ## 🏆 Competitive Programming  
 
 <p align="center">
