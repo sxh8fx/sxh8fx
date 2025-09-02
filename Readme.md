@@ -26,7 +26,7 @@ Senior-year AI & ML undergraduate, proficient in Java, MySQL, C, Linux, and Powe
 
 ---
 
-## 🎵 Now Playing on Spotify  
+<!-- ## 🎵 Now Playing on Spotify  
 
 <p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fonufxiwd6yjpc6mizkgofcqwa&redirect=true">
@@ -34,7 +34,7 @@ Senior-year AI & ML undergraduate, proficient in Java, MySQL, C, Linux, and Powe
   </a>
 </p>
 
----
+--- -->
 ## 🏆 Competitive Programming  
 
 <p align="center">
@@ -51,3 +51,12 @@ Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/sh8fx/
   <a href="mailto:shridhar.al22@bitsathy.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
   <a href="https://www.linkedin.com/in/shridhar-r-9aa9a9267/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
 </p>
+
+---
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_id&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" 
+       alt="Spotify Now Playing" 
+       width="200" />
+</a>
+
