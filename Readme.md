@@ -26,15 +26,30 @@ Senior-year AI & ML undergraduate, proficient in Java, MySQL, C, Linux, and Powe
 
 ---
 
-<!-- ## 🎵 Now Playing on Spotify  
+<!-- Added comprehensive GitHub statistics section -->
+## 📊 GitHub Stats
 
-<p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fonufxiwd6yjpc6mizkgofcqwa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fonufxiwd6yjpc6mizkgofcqwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="250"/>
-  </a>
-</p>
+<div align="center">
+  
+### 📈 Overall Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=sh8fx&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180" />
 
---- -->
+### 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh8fx&theme=dark&hide_border=true" height="180" />
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh8fx&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=sh8fx&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sh8fx&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
 ## 🏆 Competitive Programming  
 
 <p align="center">
@@ -45,7 +60,7 @@ Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/sh8fx/
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Let's Connect  
 
 <p align="center">
   <a href="mailto:shridhar.al22@bitsathy.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
@@ -59,4 +74,3 @@ Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/sh8fx/
        alt="Spotify Now Playing"
        width="200"/>
 </a>
-
