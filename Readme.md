@@ -26,7 +26,7 @@ Senior-year AI & ML undergraduate, proficient in Java, MySQL, C, Linux, and Powe
 
 ---
 
-<!-- Added comprehensive GitHub statistics section -->
+<!-- Removed GitHub trophies and contribution graph sections -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -39,12 +39,6 @@ Senior-year AI & ML undergraduate, proficient in Java, MySQL, C, Linux, and Powe
 
 ### 💻 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxh8fx&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sxh8fx&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxh8fx&theme=github-dark&hide_border=true" />
 
 </div>
 
