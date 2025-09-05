@@ -1,28 +1,73 @@
 ![Banner](banner.jpg)
 
-<!-- Fixed visitor counter with a more reliable service -->
-<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=sxh8fx&color=brightgreen&style=flat-square&label=Profile+Views) -->
-
 Programming, problem solving, films, TV shows, and books — that’s what I love. Software developer in the making, film critic already.
 
 ---
 
 ## 💻 Tech Stack
 
-<!-- Enhanced tech stack with better animations -->
+<!-- Animated bouncing icons (vertical bounce) arranged horizontally -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.1s;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.2s;" />
-  <img src="https://skillicons.dev/icons?i=c" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.3s;" />
-  <img src="https://skillicons.dev/icons?i=html,css" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.4s;" />
-  <img src="https://skillicons.dev/icons?i=linux" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.5s;" />
-  <img src="https://skillicons.dev/icons?i=figma" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.6s;" />
-  <img src="https://skillicons.dev/icons?i=python" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.7s;" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.8s;"/>
+
+  <!-- Java -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://skillicons.dev/icons?i=java" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.5s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
+  <!-- MySQL -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://skillicons.dev/icons?i=mysql" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.6s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
+  <!-- C -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://skillicons.dev/icons?i=c" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.7s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
+  <!-- HTML & CSS -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://skillicons.dev/icons?i=html,css" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.8s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
+  <!-- Linux -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://skillicons.dev/icons?i=linux" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.9s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
+  <!-- Figma -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://skillicons.dev/icons?i=figma" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
+  <!-- Python -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://skillicons.dev/icons?i=python" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.1s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
+  <!-- Power BI -->
+  <svg width="65" height="65" viewBox="0 0 100 100">
+    <image href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="65" width="65">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="left">
@@ -42,8 +87,8 @@ Programming, problem solving, films, TV shows, and books — that’s what I lov
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxh8fx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxh8fx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxh8fx&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxh8fx&layout=compact&theme=dark&hide_border=true&langs_count=10" height="200" />
 </div>
 
 ---
@@ -51,7 +96,7 @@ Programming, problem solving, films, TV shows, and books — that’s what I lov
 ## 🔥 Contribution Streak
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxh8fx&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxh8fx&theme=dark&hide_border=true" height="200" />
 </div>
 
 ---
@@ -70,7 +115,7 @@ Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/sh8fx/
 
 <div align="left">
   
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
