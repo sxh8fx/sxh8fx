@@ -1,4 +1,4 @@
-/* CSS animations for tech stack icons */
+/* Enhanced CSS animations for tech stack icons */
 @keyframes bounce {
 
     0%,
@@ -32,14 +32,40 @@
     }
 }
 
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
 .tech-icon {
     animation: bounce 2s infinite;
-    transition: transform 0.3s ease;
+    transition: all 0.3s ease;
+    border-radius: 8px;
 }
 
 .tech-icon:hover {
-    animation: pulse 0.6s infinite;
+    animation: pulse 0.6s infinite, rotate 2s linear infinite;
     transform: scale(1.2);
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
 }
 
 /* Gradient text animation */
@@ -64,4 +90,9 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+/* Additional floating animation for tech stack container */
+.tech-stack-container {
+    animation: float 3s ease-in-out infinite;
 }

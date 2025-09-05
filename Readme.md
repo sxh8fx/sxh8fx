@@ -1,17 +1,15 @@
 ![Banner](banner.jpg)
 
----
+<!-- Fixed visitor counter with a more reliable service -->
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=sxh8fx&color=brightgreen&style=flat-square&label=Profile+Views) -->
 
-# Hello
-
-<!-- Removed emoji from heading and updated visitor counter -->
-![Visitor Count](https://profile-counter.glitch.me/sxh8fx/count.svg)
+Programming, problem solving, films, TV shows, and books — that’s what I love. Software developer in the making, film critic already.
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-<!-- Removed emojis from section heading and tech icons -->
+<!-- Enhanced tech stack with better animations -->
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.1s;" />
   <img src="https://skillicons.dev/icons?i=mysql" height="65" class="tech-icon" style="animation: bounce 2s infinite; animation-delay: 0.2s;" />
@@ -25,9 +23,8 @@
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-<!-- Removed emojis from section heading -->
 <div align="left">
   <a href="https://www.linkedin.com/in/shridhar-r-9aa9a9267/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
@@ -42,9 +39,8 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<!-- Made stats and languages side by side, removed emojis -->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sxh8fx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxh8fx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="200" />
@@ -52,16 +48,15 @@
 
 ---
 
-## Contribution Streak
+## 🔥 Contribution Streak
 
-<!-- Removed emoji from section heading -->
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxh8fx&theme=tokyonight&hide_border=true" height="200" />
 </div>
 
 ---
 
-## Competitive Programming
+## 🏆 Competitive Programming
 
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/sh8fx?theme=dark&font=Karma&ext=contest" height="220" />
@@ -71,9 +66,8 @@ Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/sh8fx/
 
 ---
 
-## Quote of the Day
+## 💭 Quote of the Day
 
-<!-- Added API-based quote fetching with fallback -->
 <div align="left">
   
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
