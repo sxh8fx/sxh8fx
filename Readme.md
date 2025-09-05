@@ -61,10 +61,3 @@ Check out my problem-solving journey on [LeetCode](https://leetcode.com/u/sh8fx/
   <a href="https://www.linkedin.com/in/shridhar-r-9aa9a9267/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
 </p>
 
----
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fonufxiwd6yjpc6mizkgofcqwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-       alt="Spotify Now Playing"
-       width="200"/>
-</a>
