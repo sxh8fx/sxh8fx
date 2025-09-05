@@ -6,66 +6,22 @@ Programming, problem solving, films, TV shows, and books — that’s what I lov
 
 ## 💻 Tech Stack
 
-<!-- Animated bouncing icons (vertical bounce) arranged horizontally -->
-<div align="left">
+<p align="left">
+  <!-- Animated icons from techstack-generator -->
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 
-  <!-- Java -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://skillicons.dev/icons?i=java" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.5s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-  <!-- MySQL -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://skillicons.dev/icons?i=mysql" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.6s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-  <!-- C -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://skillicons.dev/icons?i=c" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.7s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-  <!-- HTML & CSS -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://skillicons.dev/icons?i=html,css" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.8s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-  <!-- Linux -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://skillicons.dev/icons?i=linux" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.9s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-  <!-- Figma -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://skillicons.dev/icons?i=figma" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-  <!-- Python -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://skillicons.dev/icons?i=python" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.1s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-  <!-- Power BI -->
-  <svg width="65" height="65" viewBox="0 0 100 100">
-    <image href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="65" width="65">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="2.2s" repeatCount="indefinite"/>
-    </image>
-  </svg>
-
-</div>
+  <!-- Regular icons from skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="55" height="55" />
+</p>
 
 ---
 ## 🌐 Connect With Me
